@@ -5,13 +5,9 @@
     <groupId>com.mycompany</groupId>
     <artifactId>Practico_TSE_2019</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
 
     <name>Practico_TSE_2019</name>
-    
-    <modules>
-        <module>app-Cliente</module>
-    </modules>
     
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
